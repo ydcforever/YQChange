@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="YQYRChange:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/YQYRChange_war</output-path>
+    <root id="archive" name="YQYRChange_war.war">
+      <element id="artifact" artifact-name="YQYRChange:war exploded" />
+    </root>
+  </artifact>
+</component>
